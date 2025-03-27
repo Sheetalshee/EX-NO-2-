@@ -175,6 +175,7 @@ int main() {
 
     return 0;
 }
+}
 ```
 
 
@@ -182,7 +183,8 @@ int main() {
 
 
 ## Output:
-![Screenshot 2025-03-27 082012](https://github.com/user-attachments/assets/952e5fe4-6524-4143-a32c-45adf8fd344b)
+![Screenshot 2025-03-27 083936](https://github.com/user-attachments/assets/0a592613-5736-4450-a171-0fb23487622f)
+
 
 
 
